@@ -1,0 +1,5 @@
+fastapi #building api
+uvicorn #running fastapi application
+ollama #interface with ollama for using local LLM
+python-dotenv #loading env file
+requests #sending request for testing api
